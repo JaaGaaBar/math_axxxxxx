@@ -1,4 +1,4 @@
-###### _[conversion][intent][resistance]_ ######
-###### _[c]:[I knew that the cause and effect were bad.]_ ######
-###### _[i]:[According to one theory, this state is also the path of the center.]_ ######
-###### _[r]:[I just don't notice it.]_ ######
+###### _[appropriate][role][width]_ ######
+###### _[a]:[Despite my efforts, I feel extremely inconvenienced.]_ ######
+###### _[r]:[Overcome it yourself, cut it off, offer it up, and indulge it.]_ ######
+###### _[w]:[Creating proportion is required in society.]_ ######
